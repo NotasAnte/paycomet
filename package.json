@@ -33,6 +33,6 @@
   },
   "dependencies": {
     "crypto": "^1.0.1",
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.1"
   }
 }
